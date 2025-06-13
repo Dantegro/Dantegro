@@ -1,12 +1,13 @@
-## Hi there 👋
+## Hi, I’m Dantegro 👋
 
-I am Dantegro, full-stack web developer and a freelancer
+Full-stack web developer (TypeScript, Next.js, Node.js, automation). Indie hacker and freelancer.
 
-- 🔭 I’m currently working on full-stack website for a hotel (name is undisclosed, but can be shared privately), which needs major renovations.
-- 🌱 I’m currently learning Next.js and NestJS.
-- 👯 I’m looking to collaborate on small, well-defined SaaS tools or utilities with solo devs. Must be focused and execution-driven.
-- 🤔 I’m looking for help with growth tactics for solo products, distribution strategies, and niche validation.
-- 💬 Ask me about web app architecture, TypeScript, backend APIs, solo indie hacking, or automating workflows.
-- 📫 How to reach me: Visit dantegro.com or email me directly at dan@dantegro.com
-- ⚡ Fun fact: I prefer shipping products over celebrating milestones. No BS, just execution.
--->
+- 🔭 Currently renovating a hotel website (name undisclosed; details on request).
+- 🌱 Learning Next.js and NestJS.
+- 👯 Open to collaborating on focused, execution-driven SaaS tools with other solo devs.
+- 🤔 Interested in: growth tactics for solo products, distribution strategies, niche validation.
+- 💬 Ask me about: web app architecture, TypeScript, backend APIs, solo indie hacking, workflow automation.
+- 📫 Reach me: [dan@dantegro.com](mailto:dan@dantegro.com) or dantegro.com
+- ⚡ I prefer shipping over celebrating. No BS, just execution.
+
+*Feedback welcome. If you’re looking for someone who executes, let’s connect.*
