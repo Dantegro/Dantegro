@@ -7,7 +7,7 @@ Full-stack web developer (Next.js, TypeScript, Node.js, Vercel). Indie hacker an
 - Open to collaborating on focused, execution-driven SaaS tools with other solo devs.
 - Interested in: growth tactics for solo products, distribution strategies, niche validation.
 - Ask me about: web app architecture, TypeScript, backend APIs, solo indie hacking, workflow automation.
-- Reach me: [hello@dantegro.com](mailto:hello@dantegro.com) or dantegro.com
+- Reach me: [dan@dantegro.com](mailto:dan@dantegro.com) or dantegro.com
 - I prefer shipping over celebrating. No BS, just execution.
 
 *Feedback welcome. If you’re looking for someone who executes, let’s connect.*
