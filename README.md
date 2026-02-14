@@ -10,4 +10,4 @@ Full-stack web developer (Next.js, TypeScript, Node.js, Vercel). Indie hacker an
 - Reach me: [dan@dantegro.com](mailto:dan@dantegro.com) or dantegro.com
 - I prefer shipping over celebrating. No BS, just execution.
 
-*Feedback welcome. If you’re looking for someone who executes, let’s connect.*
+*Feedback welcome. If you’re looking for someone who is a solo dev and into indie hacking, let’s connect.*
