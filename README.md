@@ -5,8 +5,7 @@ Full-stack web developer (Next.js, TypeScript, Node.js, Vercel). Indie hacker an
 - Currently renovating and developing a full-stack hotel website from start to finish (details on request).
 - Learning Next.js and CI/CD pipelines
 - Open to collaborating on SaaS apps and tools with other solo devs.
-- Interested in: growth tactics for solo products, distribution strategies, niche validation.
-- Ask me about: web app architecture, TypeScript, backend APIs, solo indie hacking, workflow automation.
+- Interested in: indie hacking and web development.
 - Reach me: [dan@dantegro.com](mailto:dan@dantegro.com) or dantegro.com
 - I prefer shipping over celebrating. No BS, just execution.
 
