@@ -1,6 +1,6 @@
 ## Hi, I’m Dantegro
 
-Full-stack web developer, indie hacker and freelancer.
+Full-stack web developer.
 
 - I use Next.js (with TypeScript) Supabase, Vercel
 - Currently renovating and developing a full-stack hotel website from start to finish (details on request).
