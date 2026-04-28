@@ -1,6 +1,6 @@
 ## Hi, I’m Dantegro
 
-Full-stack web developer. Software Engineering student University of Westminster (2025-2029).
+Full-stack web developer. Software Engineering student at University of Westminster (2025-2029).
 
 - I use Next.js (with TypeScript) Supabase, Vercel
 - Currently renovating and developing a full-stack hotel website from start to finish (details on request).
